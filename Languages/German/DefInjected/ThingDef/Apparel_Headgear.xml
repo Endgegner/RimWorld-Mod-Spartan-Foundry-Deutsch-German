@@ -35,7 +35,7 @@
 
   <!-- Scout Power Armor -->
   <SF_ScoutPowerArmorHelmet.label>Aufklärer Energiehelm</SF_ScoutPowerArmorHelmet.label>
-  <SF_ScoutPowerArmorHelmet.description>Ein Energiehelm für Aufklärungsmissionen und erste Wahl jedes wahren Kundschafters. Es verfügt sowohl über ein kappengleiche Vorwölbung an seinem Außenrand, als auch über eine schnabelförmige Verwölbung am Geschirr und hat einen erweiterten KI Persona Kern integriert, der die Präzision des Anwenders auf weite Strecken deutlich verbessert.</SF_ScoutPowerArmorHelmet.description>
+  <SF_ScoutPowerArmorHelmet.description>Ein Energiehelm für Aufklärungsmissionen und erste Wahl jedes wahren Kundschafters. Es verfügt sowohl über ein kappengleiche Vorwölbung an seinem Außenrand, als auch über eine schnabelförmige Verwölbung am Geschirr. Diese Version hat einen erweiterten KI Persona Kern integriert, der die Präzision des Anwenders auf weite Strecken deutlich verbessert.</SF_ScoutPowerArmorHelmet.description>
 
   <!-- Samurai Power Armor -->
   <SF_SamuraiPowerArmorHelmet.label>Samurai Energiehelm</SF_SamuraiPowerArmorHelmet.label>

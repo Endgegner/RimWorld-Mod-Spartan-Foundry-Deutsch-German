@@ -35,7 +35,7 @@
 
   <!-- Scout Power Armor -->
   <SF_ScoutPowerArmor.label>Aufklärer Energierüstung</SF_ScoutPowerArmor.label>
-  <SF_ScoutPowerArmor.description>Eine Ganzkörperpanzerung für militärische Aufklärungsmissionen. Diese Variante lief als Paralellprogramm, während dem großen orbitalem Erkundungsprojekts und wurde entwickelt um den Träger bei seinen Feldeinsätzen zu tarnen. Diese Energierüstung verfügt über eine leichtere Materialverwebung und erweiterte Servomotoren, die die Bewegungen des Anwenders erheblich verstärken.</SF_ScoutPowerArmor.description>
+  <SF_ScoutPowerArmor.description>Eine Ganzkörperpanzerung für militärische Aufklärungsmissionen. Diese Variante lief als Paralellprogramm, während dem großen orbitalem Erkundungsprojekts und wurde entwickelt um den Träger bei seinen Feldeinsätzen zu tarnen. Sie verfügt über eine leichtere Materialverwebung und erweiterte Servomotoren, die die Bewegungen des Anwenders erheblich verstärken.</SF_ScoutPowerArmor.description>
 
   <!-- Samurai Power Armor -->
   <SF_SamuraiPowerArmor.label>Samurai Energierüstung</SF_SamuraiPowerArmor.label>
