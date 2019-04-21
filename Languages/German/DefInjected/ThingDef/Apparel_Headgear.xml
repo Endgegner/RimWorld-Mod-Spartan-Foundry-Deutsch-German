@@ -41,7 +41,7 @@
   <SF_SamuraiPowerArmorHelmet.label>Samurai Energiehelm</SF_SamuraiPowerArmorHelmet.label>
   <SF_SamuraiPowerArmorHelmet.description>Ein Energiehelm mit einem Samuraischirm und einem Spezialvisier das ultraviolette Strahlung auffängt. Wie bei allen Helmen ist das Visier das schwächste Teil, daher wurde bei dieser Version vor allem darauf Wert gelegt, das Sichtfenster äußerst kleinzuhalten, was widerum die Genauigkeit bei Präzisionswaffen verschlechterte. Dennoch bietet sie eine gute Verschleierung der empfindlichsten Teile und dem Träger damit besten Schutz. Ein vorinstallierter KI Persona Kern beinhaltet und listet alle Informationen über interstellare Kampfkünste auf, vor, während und auch nach einem Gefecht.</SF_SamuraiPowerArmorHelmet.description>
 
-  <!-- Shock Trooper Armor -->Kinetischer Energieschild f&#252;r den Nahkampf von Sturmtruppen.
+  <!-- Shock Trooper Armor -->
   <SF_ShockTrooperArmorHelmet.label>Vollkontakt Energiehelm</SF_ShockTrooperArmorHelmet.label>
   <SF_ShockTrooperArmorHelmet.description>Ein kinetischer Energiehelm für Shocktruppen mit einer feuefesten Beschichtung und Verstärkungselementen aus einer Tritaniumlegierung. Die Innenseite wurde mit schwarzen Spezialpolstern ausgelegt, um einen gewissen Komfort bei gleichzeitig hoher Sicherheit zu bieten. Diese neuste Version verbindet sich automatisch mit dem neuralen Netzwerk des Benutzers und speist das Gehirn mit allen taktischen Daten während eines Einsatzes. Zusätzlich werden auf das Sichtfeld strategische Möglichkeiten zur optimalen Positionierung beim Vorrücken wiedergegeben.</SF_ShockTrooperArmorHelmet.description>
 
