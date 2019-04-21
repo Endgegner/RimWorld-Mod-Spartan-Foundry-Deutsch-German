@@ -1,5 +1,5 @@
 # RimWorld-Mod-Spartan-Foundry-Deutsch-German
-Deutsch Übersetzung des RimWorld-Mods Spartan Foundry Expanded (GER/DE Translation)
+Deutsch Übersetzung des RimWorld-Mods Spartan Foundry (GER/DE Translation)
 
 <b>License</b>
 - You may change, edit, modify the code and even take this whole thing as a template for your mods.
