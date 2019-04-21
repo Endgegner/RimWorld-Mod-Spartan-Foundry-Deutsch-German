@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipe Users: FabricationBench -->
+  <Make_SF_PoweredAssaultArmor.label>Stelle eine Sturmtruppen Energierüstung her</Make_SF_PoweredAssaultArmor.label>
+  <Make_SF_PoweredAssaultArmor.description>Stelle eine Sturmtruppen Energierüstung her.</Make_SF_PoweredAssaultArmor.description>
+  <Make_SF_PoweredAssaultArmor.jobString>Rüstungsanfertigung.</Make_SF_PoweredAssaultArmor.jobString>
+
+  <!-- Recipe Users -->
+  <Make_SF_EngineerPowerArmor.label>Stelle eine Gefechtsmechaniker Energierüstung her</Make_SF_EngineerPowerArmor.label>
+  <Make_SF_EngineerPowerArmor.description>Stelle eine Gefechtsmechaniker Energierüstung her.</Make_SF_EngineerPowerArmor.description>
+  <Make_SF_EngineerPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_EngineerPowerArmor.jobString>
+
+  <Make_SF_ExplorerPowerArmor.label>Stelle eine Erforscher Energierüstung her</Make_SF_ExplorerPowerArmor.label>
+  <Make_SF_ExplorerPowerArmor.description>Stelle eine Erforscher Energierüstung her.</Make_SF_ExplorerPowerArmor.description>
+  <Make_SF_ExplorerPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_ExplorerPowerArmor.jobString>
+
+  <Make_SF_GrenadierPowerArmor.label>Stelle eine Grenadier Energierüstung her</Make_SF_GrenadierPowerArmor.label>
+  <Make_SF_GrenadierPowerArmor.description>Stelle eine Grenadier Energierüstung her.</Make_SF_GrenadierPowerArmor.description>
+  <Make_SF_GrenadierPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_GrenadierPowerArmor.jobString>
+
+  <Make_SF_CommandoArmor.label>Stelle eine Kommando Energierüstung her</Make_SF_CommandoArmor.label>
+  <Make_SF_CommandoArmor.description>Stelle eine Kommando Energierüstung her.</Make_SF_CommandoArmor.description>
+  <Make_SF_CommandoArmor.jobString>Rüstungsanfertigung.</Make_SF_CommandoArmor.jobString>
+
+  <Make_SF_HazardOperationsArmor.label>Stelle eine Biohazard Energierüstung her</Make_SF_HazardOperationsArmor.label>
+  <Make_SF_HazardOperationsArmor.description>Stelle eine Biohazard Energierüstung her.</Make_SF_HazardOperationsArmor.description>
+  <Make_SF_HazardOperationsArmor.jobString>Rüstungsanfertigung.</Make_SF_HazardOperationsArmor.jobString>
+  <!-- VIP, Diplomat -->
+  <Make_SF_DiplomatPowerArmor.label>Stelle eine Konsul Energierüstung her</Make_SF_DiplomatPowerArmor.label>
+  <Make_SF_DiplomatPowerArmor.description>Stelle eine Konsul Energierüstung her</Make_SF_DiplomatPowerArmor.description>
+  <Make_SF_DiplomatPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_DiplomatPowerArmor.jobString>
+  <!-- Verteidiger, Medic -->
+  <Make_SF_DefenderPowerArmor.label>Stelle eine Frontsoldat Energierüstung her</Make_SF_DefenderPowerArmor.label>
+  <Make_SF_DefenderPowerArmor.description>Stelle eine Frontsoldat Energierüstung her.</Make_SF_DefenderPowerArmor.description>
+  <Make_SF_DefenderPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_DefenderPowerArmor.jobString>
+
+  <Make_SF_ScoutPowerArmor.label>Stelle eine Aufklärer Energierüstung her</Make_SF_ScoutPowerArmor.label>
+  <Make_SF_ScoutPowerArmor.description>Stelle eine Aufklärer Energierüstung her.</Make_SF_ScoutPowerArmor.description>
+  <Make_SF_ScoutPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_ScoutPowerArmor.jobString>
+
+  <Make_SF_SamuraiPowerArmor.label>Stelle eine Samurai Energierüstung her</Make_SF_SamuraiPowerArmor.label>
+  <Make_SF_SamuraiPowerArmor.description>Stelle eine Samurai Energierüstung her.</Make_SF_SamuraiPowerArmor.description>
+  <Make_SF_SamuraiPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_SamuraiPowerArmor.jobString>
+  <!-- Schocktruppen -->
+  <Make_SF_ShockTrooperArmor.label>Stelle eine Vollkontakt Energierüstung her</Make_SF_ShockTrooperArmor.label>
+  <Make_SF_ShockTrooperArmor.description>Make shock trooper Energierüstung.</Make_SF_ShockTrooperArmor.description>
+  <Make_SF_ShockTrooperArmor.jobString>Rüstungsanfertigung.</Make_SF_ShockTrooperArmor.jobString>
+
+  <Make_SF_ReconPowerArmor.label>Stelle eine Tarnkappen Energierüstung her</Make_SF_ReconPowerArmor.label>
+  <Make_SF_ReconPowerArmor.description>Stelle eine Tarnkappen Energierüstung her.</Make_SF_ReconPowerArmor.description>
+  <Make_SF_ReconPowerArmor.jobString>Rüstungsanfertigung.</Make_SF_ReconPowerArmor.jobString>
+
+  <!-- Recipe Users: TableMachining, FabricationBench -->
+  <Make_SF_PoweredAssaultArmorHelmet.label>Stelle eine Sturmtruppen Energiehelm her</Make_SF_PoweredAssaultArmorHelmet.label>
+  <Make_SF_PoweredAssaultArmorHelmet.description>Stelle eine Sturmtruppen Energiehelm her.</Make_SF_PoweredAssaultArmorHelmet.description>
+  <Make_SF_PoweredAssaultArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_PoweredAssaultArmorHelmet.jobString>
+
+  <!-- Recipe Users -->
+  <Make_SF_EngineerPowerArmorHelmet.label>Stelle einen Gefechtsmechaniker Energiehelm her</Make_SF_EngineerPowerArmorHelmet.label>
+  <Make_SF_EngineerPowerArmorHelmet.description>Stelle einen Gefechtsmechaniker Energiehelm her.</Make_SF_EngineerPowerArmorHelmet.description>
+  <Make_SF_EngineerPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_EngineerPowerArmorHelmet.jobString>
+
+  <Make_SF_ExplorerPowerArmorHelmet.label>Stelle einen Erforscher Energiehelm her</Make_SF_ExplorerPowerArmorHelmet.label>
+  <Make_SF_ExplorerPowerArmorHelmet.description>Stelle einen Erforscher Energiehelm her.</Make_SF_ExplorerPowerArmorHelmet.description>
+  <Make_SF_ExplorerPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_ExplorerPowerArmorHelmet.jobString>
+
+  <Make_SF_GrenadierPowerArmorHelmet.label>Stelle einen Grenadier Energiehelm her</Make_SF_GrenadierPowerArmorHelmet.label>
+  <Make_SF_GrenadierPowerArmorHelmet.description>Stelle einen Grenadier Energiehelm her.</Make_SF_GrenadierPowerArmorHelmet.description>
+  <Make_SF_GrenadierPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_GrenadierPowerArmorHelmet.jobString>
+
+  <Make_SF_CommandoArmorHelmet.label>Stelle einen Kommando Energiehelm her</Make_SF_CommandoArmorHelmet.label>
+  <Make_SF_CommandoArmorHelmet.description>Stelle einen Kommando Energiehelm her.</Make_SF_CommandoArmorHelmet.description>
+  <Make_SF_CommandoArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_CommandoArmorHelmet.jobString>
+
+  <Make_SF_HazardOperationsArmorHelmet.label>Stelle einen Biohazard Energiehelm her</Make_SF_HazardOperationsArmorHelmet.label>
+  <Make_SF_HazardOperationsArmorHelmet.description>Stelle einen Biohazard Energiehelm her.</Make_SF_HazardOperationsArmorHelmet.description>
+  <Make_SF_HazardOperationsArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_HazardOperationsArmorHelmet.jobString>
+
+  <Make_SF_DiplomatPowerArmorHelmet.label>Stelle einen Trugbilder Energiehelm her</Make_SF_DiplomatPowerArmorHelmet.label>
+  <Make_SF_DiplomatPowerArmorHelmet.description>Stelle einen Trugbilder Energiehelm her.</Make_SF_DiplomatPowerArmorHelmet.description>
+  <Make_SF_DiplomatPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_DiplomatPowerArmorHelmet.jobString>
+
+  <Make_SF_DefenderPowerArmorHelmet.label>Stelle einen Frontsoldat Energiehelm her</Make_SF_DefenderPowerArmorHelmet.label>
+  <Make_SF_DefenderPowerArmorHelmet.description>Stelle einen Frontsoldat Energiehelm her.</Make_SF_DefenderPowerArmorHelmet.description>
+  <Make_SF_DefenderPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_DefenderPowerArmorHelmet.jobString>
+
+  <Make_SF_ScoutPowerArmorHelmet.label>Stelle einen Aufklärer Energiehelm her</Make_SF_ScoutPowerArmorHelmet.label>
+  <Make_SF_ScoutPowerArmorHelmet.description>Stelle einen Aufklärer Energiehelm her.</Make_SF_ScoutPowerArmorHelmet.description>
+  <Make_SF_ScoutPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_ScoutPowerArmorHelmet.jobString>
+
+  <Make_SF_SamuraiPowerArmorHelmet.label>Stelle einen Samurai Energiehelm her</Make_SF_SamuraiPowerArmorHelmet.label>
+  <Make_SF_SamuraiPowerArmorHelmet.description>Stelle einen Samurai Energiehelm her.</Make_SF_SamuraiPowerArmorHelmet.description>
+  <Make_SF_SamuraiPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_SamuraiPowerArmorHelmet.jobString>
+
+  <Make_SF_ShockTrooperArmorHelmet.label>Stelle einen Vollkontakt Energiehelm her</Make_SF_ShockTrooperArmorHelmet.label>
+  <Make_SF_ShockTrooperArmorHelmet.description>Stelle einen Vollkontakt Energiehelm her.</Make_SF_ShockTrooperArmorHelmet.description>
+  <Make_SF_ShockTrooperArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_ShockTrooperArmorHelmet.jobString>
+
+  <Make_SF_ReconPowerArmorHelmet.label>Stelle einen Tarnkappen Energiehelm her</Make_SF_ReconPowerArmorHelmet.label>
+  <Make_SF_ReconPowerArmorHelmet.description>Stelle einen Tarnkappen Energiehelm her.</Make_SF_ReconPowerArmorHelmet.description>
+  <Make_SF_ReconPowerArmorHelmet.jobString>Rüstungsanfertigung.</Make_SF_ReconPowerArmorHelmet.jobString>
+
+</LanguageData>
