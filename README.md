@@ -7,5 +7,3 @@ Deutsch Übersetzung des RimWorld-Mods Spartan Foundry (GER/DE Translation)
 - Contributions are more as welcome. Make RimWorld a better place!
 
 When the code or content is based on different mods and their templates, please explicitly ask these authors for their allowance.
-
-Credits are always given in SteamWorkshop and in about.xml
