@@ -43,7 +43,7 @@
 
   <!-- Shock Trooper Armor # Höllenfeuer -->
   <SF_ShockTrooperArmor.label>Vollkontakt Energierüstung</SF_ShockTrooperArmor.label>
-  <SF_ShockTrooperArmor.description>Eine kinetische Vollkörperrüstung für Schocktruppen. Diese Variante wird aus vielen Schichten und verschiedensten Materialien kompositioniert. Die letzte und innerste Schicht ist ein dichter Mantel aus zusätzlichem Kevlar, der dem Träger auch vor kleinen Schusswaffen schützt. Die Außenhülle besteht aus einer feuerresistenten Schicht um den Träger bei orbitalen Abwürfen zu schützen. Das Überschild dieser Energierüstung lässt dem Anwender keine Fernkampfwaffen anwenden, ermöglicht aber eine starke Widerstandsfähigkeit bei direkten Zusammenstößen.</SF_ShockTrooperArmor.description>
+  <SF_ShockTrooperArmor.description>Eine kinetische Vollkörperrüstung für Schocktruppen. Diese Variante wird aus vielen Schichten und verschiedensten Materialien kompositioniert. Die letzte und innerste Schicht ist ein dichter Mantel aus zusätzlichem Kevlar, der dem Träger auch vor kleineren Waffenkalibern schützt. Die Außenhülle besteht aus einer feuerresistenten Schicht um den Träger bei orbitalen Abwürfen zu schützen. Das Überschild dieser Energierüstung lässt dem Anwender keine Fernkampfwaffen anwenden, ermöglicht aber eine starke Widerstandsfähigkeit bei direkten Zusammenstößen.</SF_ShockTrooperArmor.description>
 
   <!-- Recon Power Armor -->
   <SF_ReconPowerArmor.label>Tarnkappen Energierüstung</SF_ReconPowerArmor.label>
