@@ -19,7 +19,7 @@
 
   <!-- Commando Armor -->
   <SF_CommandoArmor.label>Kommando Energierüstung</SF_CommandoArmor.label>
-  <SF_CommandoArmor.description>Eine schwere Vollkörperrüstung mit verstärkten Servomotoren, die selbst gewaltsamste Mächte davon abhält, den Benutzer innerhalb des Panzers zu verletzen. Diese Variante synchronisiert sich automatisch mit dem Schildgürtel um dessen ganzes Potenizal auszuschöpfen. Der Funktionsumfang umfasst unter anderem die Überlebensfähigkeit bei direkten und unerwarteten Zusammenstößen sowie eine selbstständige Zielerfassung mit Suchbildschirm und Abtaster.</SF_CommandoArmor.description>
+  <SF_CommandoArmor.description>Eine schwere Vollkörperrüstung mit verstärkten Servomotoren, die selbst gewaltsamste Mächte davon abhält, den Benutzer innerhalb des Panzers zu verletzen. Diese Variante synchronisiert sich automatisch mit dem Schildgürtel, um dessen ganzes Potenizal auszuschöpfen. Der Funktionsumfang umfasst unter anderem die Überlebensfähigkeit bei direkten und unerwarteten Zusammenstößen sowie eine selbstständige Zielerfassung mit Suchbildschirm und Abtaster.</SF_CommandoArmor.description>
 
   <!-- Hazard Operations Armor -->
   <SF_HazardOperationsArmor.label>Biohazard Energierüstung</SF_HazardOperationsArmor.label>
