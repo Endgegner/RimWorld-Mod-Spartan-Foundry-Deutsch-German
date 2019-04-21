@@ -19,7 +19,7 @@
 
   <!-- Commando Armor -->
   <SF_CommandoArmorHelmet.label>Kommando Energiehelm</SF_CommandoArmorHelmet.label>
-  <SF_CommandoArmorHelmet.description>Ein Energiehelm mit eigenem Bewusstsein. Er verfügt über vollautomatische Reflektorsicht, einem Zielsuch- und Ortungssystem, welches auf der Technologie von Weltraumschiffen basiert und nicht zuletzt durchschaltbarem Sichtspektren zur Steigerung der Feuereffektivität. Über isolierte Kamerabilder wird hier eine einzigartige und verbesserte Wahrnehmung geschaffen, wie man sie nur aus Glitzerwelten kennt, besonders während man in Bewegung ist.</SF_CommandoArmorHelmet.description>
+  <SF_CommandoArmorHelmet.description>Ein Energiehelm mit eigenem Bewusstsein. Er verfügt über vollautomatische Reflektorsicht, ein Zielsuch- und Ortungssystem, welches auf der Technologie von Weltraumschiffen basiert und nicht zuletzt durchschaltbarem Sichtspektren zur Steigerung der Feuereffektivität. Über isolierte Kamerabilder wird hier eine einzigartige und verbesserte Wahrnehmung geschaffen, wie man sie nur aus Glitzerwelten kennt, besonders während man in Bewegung ist.</SF_CommandoArmorHelmet.description>
 
   <!-- Hazard Operations Armor -->
   <SF_HazardOperationsArmorHelmet.label>Biohazard Energiehelm</SF_HazardOperationsArmorHelmet.label>
