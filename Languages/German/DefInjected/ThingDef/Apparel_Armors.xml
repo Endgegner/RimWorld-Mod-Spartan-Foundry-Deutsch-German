@@ -3,11 +3,11 @@
 
   <!-- Powered Assault Armor -->
   <SF_PoweredAssaultArmor.label>Sturmtruppen Energierüstung</SF_PoweredAssaultArmor.label>
-  <SF_PoweredAssaultArmor.description>Als Nachfolger der ersten Vollkörper Marine Rüstungen, produziert im Jahre 2548, wurde die Sturmtruppen Energierüstung für militärische Einsatzzwecke entwickelt und bediente sich damaliger experimenteller Techniken. Ein wahrer Meilenstein der die galaktischen Kriege beim Aufeinanderprallen der Welten mitentscheiden sollte. Diese Energierüstung wurde in einer geheimen Fabrikstätte auf die Überlebensfähigkeit des Trägers im direkten Nahkampf ausgelegt.</SF_PoweredAssaultArmor.description>
+  <SF_PoweredAssaultArmor.description>Als Nachfolger der ersten Vollkörper Marine Rüstungen, produziert im Jahre 2548, wurde die Sturmtruppen Energierüstung für militärische Einsatzzwecke entwickelt und bediente sich damaliger experimenteller Techniken. Ein wahrer Meilenstein der die galaktischen Kriege beim Aufeinanderprallen der Welten mitentscheiden sollte. Diese Energierüstung wurde in einer geheimen Fabrikstätte auf die Überlebensfähigkeit des Trägers in direkten Zusammenstößen mit feindlichen Einheiten ausgelegt.</SF_PoweredAssaultArmor.description>
 
   <!-- Engineer Power Armor -->handelt es sich um eine der ersten Varianten ihrer Art.
   <SF_EngineerPowerArmor.label>Gefechtsmechaniker Energierüstung</SF_EngineerPowerArmor.label>
-  <SF_EngineerPowerArmor.description>Eine schwere Vollkörperrüstung mit Servomotoren die selbst einen Dacheinsturz aufzuhalten vermag. Diese Variante ist speziell darauf ausgelegt den Träger vor Gefahren bei Reparaturen und Instandhaltungen unter lebensbedrohlichen Umständen zu schützen. Die Kanten wurden stark abgerundet, was jegliches Verheddern und ein Einhaken der Panzerung verhindert und die Chance im Kampf zerstückelt zu werden beträchtlich senkt. Sie wurde für Operationen mit Mechs, Gefechtsraupen und -krabblern im Feldinsatz entworfen, sowie dem Entschärfen von explosiven Stoffen.</SF_EngineerPowerArmor.description>
+  <SF_EngineerPowerArmor.description>Eine schwere Vollkörperrüstung mit Servomotoren die selbst einen Dacheinsturz aufzuhalten vermag. Diese Variante ist speziell darauf ausgelegt den Träger vor Gefahren bei Reparaturen und Instandhaltungen unter lebensbedrohlichen Umständen zu schützen. Die Kanten wurden stark abgerundet, was jegliches Verheddern und ein Einhaken der Panzerung verhindert und die Chance im Kampf zerstückelt zu werden beträchtlich senkt. Sie wurde für Operationen mit Mechs, Gefechtsraupen und -krabblern im Feldinsatz entworfen, sowie dem Entschärfen von hochexplosiven Stoffen.</SF_EngineerPowerArmor.description>
 
   <!-- Explorer Power Armor -->
   <SF_ExplorerPowerArmor.label>Erforscher Energierüstung</SF_ExplorerPowerArmor.label>
@@ -15,7 +15,7 @@
 
   <!-- Grenadier Power Armor -->
   <SF_GrenadierPowerArmor.label>Grenadier Energierüstung</SF_GrenadierPowerArmor.label>
-  <SF_GrenadierPowerArmor.description>Eine schwere Energierüstung, die auf einem Prototypen der Weltraum Marine basiert. Sie wurd mit einer besonderen Gewebeschicht erweitert und hält heftigsten Erschütterungen stand. Diese Variante kommt oft bei der Geschütz- und  Artilleriebemannung zum Einsatz und schützt speziell for Explosionsschäden.</SF_GrenadierPowerArmor.description>
+  <SF_GrenadierPowerArmor.description>Eine schwere Energierüstung, die auf einem Prototypen der Weltraum Marine basiert. Sie wurd mit einer besonderen Gewebeschicht erweitert und hält heftigsten Erschütterungen stand. Diese Variante kommt oft bei der Geschütz- und  Artilleriebemannung zum Einsatz und schützt speziell vor heftigen Explosionsschäden.</SF_GrenadierPowerArmor.description>
 
   <!-- Commando Armor -->
   <SF_CommandoArmor.label>Kommando Energierüstung</SF_CommandoArmor.label>
@@ -23,7 +23,7 @@
 
   <!-- Hazard Operations Armor -->
   <SF_HazardOperationsArmor.label>Biohazard Energierüstung</SF_HazardOperationsArmor.label>
-  <SF_HazardOperationsArmor.description>Eine Ganzkörperpanzerung für gefahrenfreie Operationen auf Planeten mit hohem biologischem Risiko. Das spezielle Material das bei der Herstellung verwendet wird, hilft dem Träger widrigste Bedingungen von Umwelteinflüssen zu überstehen, selbst wenn er intensiver Strahlungseinwirkung ausgesetzt wird. Die integrierten Werkzeuge kommen oft bei Analyse Missionen zum Einsatz.</SF_HazardOperationsArmor.description>
+  <SF_HazardOperationsArmor.description>Eine Ganzkörperpanzerung für gefahrenfreie Operationen auf Planeten mit hohem biologischem Risiko. Das spezielle Material das bei der Herstellung verwendet wird, hilft dem Träger widrigste Bedingungen von Umwelteinflüssen zu überstehen, selbst wenn er intensiver Strahlungseinwirkung ausgesetzt wird. Die integrierten Werkzeuge kommen oft bei analytischen Aufträgen zum Einsatz.</SF_HazardOperationsArmor.description>
 
   <!-- Diplomat Power Armor -->
   <SF_DiplomatPowerArmor.label>Konsul Energierüstung</SF_DiplomatPowerArmor.label>
@@ -31,7 +31,7 @@
 
   <!-- Defender Power Armor -->
   <SF_DefenderPowerArmor.label>Frontsoldat Energierüstung</SF_DefenderPowerArmor.label>
-  <SF_DefenderPowerArmor.description>Eine schwere Vollkörperrüstung die dem Träger eine erleichterte Erstversorgung bei gefährlichen Feldeinsätzen ermöglicht. Sie wurden eigens zur Unterstützung bei medizinischen Operationen ausgelegt und verfügt über ein breites Spektrum an Hilfsmitteln zur Steigerung der Behandlungsqualität. Zudem wurden leichtere Panzerplatten und ein Sub Persona Kern integriert, der bei jeglichen Situation anleiten, führen und sogar übernehmen kann. Diese Variante wurde zudem so konzeptioniert, daß sie eine Vielzahl von Kampfszenarien zu überstehen vermag und bietet maximale Freiheit in der Bewegung bei unvergleichlicher Sicherheit.</SF_DefenderPowerArmor.description>
+  <SF_DefenderPowerArmor.description>Eine schwere Vollkörperrüstung die dem Träger eine erleichterte Erstversorgung bei gefährlichen Feldeinsätzen ermöglicht. Sie wurden eigens zur Unterstützung bei medizinischen Operationen ausgelegt und verfügt über ein breites Spektrum an Hilfsmitteln zur Steigerung der Behandlungsqualität. Zudem wurden leichtere Panzerplatten und ein Sub Persona Kern integriert, der bei jeglichen Situation anleiten, führen und sogar übernehmen kann. Diese Variante wurde zudem so konzeptioniert, daß sie eine Vielzahl von Kampfszenarien zu überstehen vermag und bietet maximale Freiheit in der Bewegung bei unvergleichbarer Sicherheit.</SF_DefenderPowerArmor.description>
 
   <!-- Scout Power Armor -->
   <SF_ScoutPowerArmor.label>Aufklärer Energierüstung</SF_ScoutPowerArmor.label>
@@ -39,7 +39,7 @@
 
   <!-- Samurai Power Armor -->
   <SF_SamuraiPowerArmor.label>Samurai Energierüstung</SF_SamuraiPowerArmor.label>
-  <SF_SamuraiPowerArmor.description>Eine schwere Energierüstung mit äußerst seltener Trugbilder Technologie. Diese Variante wurde erfunden um mit seinen verbesserten Servomotoren selbst kleinere Mechs im Eins gegen Eins niederzuringen. Der ionisierte Antrieb verleiht dem Träger die Kraft selbst xenomorphes Chitin zu durchschlagen. Das Design dieser Variante ist stark angelegt an die Rüstungen einer Kriegerkaste von Schwertkämpfern aus einer längst vergangenen Epoche. Der Grund liegt aber nicht etwa am eleganten Aussehen, sondern an der aerodynamischen Form, die wuchtigste Hiebe sowie ballistische Penetration einfach abschlittern lässt und dem Träger zugleich große Freiheit. Aufgrund der doch eher mangeldenden Panzerung ein entscheidener Faktor im Zusammenspiel dieser Konfiguration.</SF_SamuraiPowerArmor.description>
+  <SF_SamuraiPowerArmor.description>Eine schwere Energierüstung mit äußerst seltener Trugbilder Technologie. Diese Variante wurde erfunden um mit seinen verbesserten Servomotoren selbst kleinere Mechs im Eins gegen Eins niederzuringen. Der ionisierte Antrieb verleiht dem Träger die Kraft selbst xenomorphes Chitin zu durchschlagen. Das Design dieser Variante ist stark angelegt an die Rüstungen einer Kriegerkaste von Schwertkämpfern aus einer längst vergangenen Epoche. Der Grund liegt aber nicht etwa am eleganten Aussehen, sondern an der aerodynamischen Form, die wuchtigste Hiebe sowie ballistische Penetration einfach abschlittern lässt und dem Träger zugleich große Freiheit gewährt. Aufgrund der doch eher mangeldenden Panzerung ein entscheidener Faktor im Zusammenspiel dieser Konfiguration.</SF_SamuraiPowerArmor.description>
 
   <!-- Shock Trooper Armor # Höllenfeuer -->
   <SF_ShockTrooperArmor.label>Vollkontakt Energierüstung</SF_ShockTrooperArmor.label>
@@ -47,6 +47,6 @@
 
   <!-- Recon Power Armor -->
   <SF_ReconPowerArmor.label>Tarnkappen Energierüstung</SF_ReconPowerArmor.label>
-  <SF_ReconPowerArmor.description>Eine Ganzkörperpanzerung für das Auskundschaften feindlicher Territorien. Diese Variante wurde speziell dafür entwickelt den Träger Fähigkeiten zur Tarnung zu verleihen, ohne dabei an Ausdauerfähigkeit einzubüßen oder zumindest kaum. Die Infrarot Signatur wurde auf ein Minimum reduziert, die Panzerung komplett verspiegelt und Strahlungswerte wie Emission minimiert. Alle Anpassungen resultierten letztlich in einem Wunderwerk der Technik, welches darauf abzielt dem Anwender auf Kosten der maximalen Schildenergie unnachamliche Bewegungsfreiheiten in uneingeschränkter Gewandtheit zu schenken.</SF_ReconPowerArmor.description>
+  <SF_ReconPowerArmor.description>Eine Ganzkörperpanzerung für das Auskundschaften feindlicher Territorien. Diese Variante wurde speziell dafür entwickelt den Träger Fähigkeiten zur Tarnung zu verleihen, ohne dabei an Ausdauerfähigkeit einzubüßen oder zumindest kaum. Die Infrarot Signatur wurde auf ein Minimum reduziert, die Panzerung komplett verspiegelt und Strahlungswerte wie Emission minimiert. Alle Anpassungen resultierten letztlich in einem Wunderwerk der Technik, welches darauf abzielt dem Anwender auf Kosten der maximalen Schildenergie unnachamliche Bewegungsfreiheiten mit uneingeschränkter Gewandtheit zu schenken.</SF_ReconPowerArmor.description>
 
 </LanguageData>
