@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Powered Assault Armor Helmet -->
+  <SF_PoweredAssaultArmorHelmet.label>Sturmtruppen Energiehelm</SF_PoweredAssaultArmorHelmet.label>
+  <SF_PoweredAssaultArmorHelmet.description>Dieser Energiehelm ist anders als der Standard gewöhnlicher Weltraum Marine. Er vefügt über ein leichtes 'T' Visier mit zwei dazugehörigen Wangenpanzerplatten. Die Oberseite wurde mit einer Speziallegierung und einer schützenden Strebe versehen. Irgendwie birgt der Helm etwas unnahbares der antiken Griechen und ihrer Spartiaten in sich.</SF_PoweredAssaultArmorHelmet.description>
+
+  <!-- Engineer Power Armor Helmet -->
+  <SF_EngineerPowerArmorHelmet.label>Gefechtsmechaniker Energiehelm</SF_EngineerPowerArmorHelmet.label>
+  <SF_EngineerPowerArmorHelmet.description>Ein Energiehelm der die Druckwelle einer nahegelegen Detonation standhalten kann. Diese Variante überträgt und verteilt die Wucht auf den ganzen Körper. Zudem verhindert er bei Einschlägen wie Explosionen einen großen Teil der konzentrierten Wirkung und damit eine direkte Enthauptung des Trägers.</SF_EngineerPowerArmorHelmet.description>
+
+  <!-- Explorer Power Armor -->
+  <SF_ExplorerPowerArmorHelmet.label>Erforscher Energiehelm</SF_ExplorerPowerArmorHelmet.label>
+  <SF_ExplorerPowerArmorHelmet.description>Ein Energiehelm mit großem Reflektor Sichtfenster und integriertem Terraindifferenzierer um den Benutzer eine hindernisfreie Analyse, der vor ihm liegenden Daten zu ermöglichen. In das charakteristische Visier wurde ein Hochleistungsmonitor eingearbeitet, wie man ihn nur aus Glitzerwelten kennt. Unter den eingebauten Nanochips befindet sich ein einzigartiger KI Persona Kern, der den Anwender während Forschungsmissionen mit seiner Framework Datenbank begleitet und unterstützt.</SF_ExplorerPowerArmorHelmet.description>
+
+  <!-- Grenadier Power Armor -->
+  <SF_GrenadierPowerArmorHelmet.label>Grenadier Energiehelm</SF_GrenadierPowerArmorHelmet.label>
+  <SF_GrenadierPowerArmorHelmet.description>Ein Energiehelm mit integriertem Sub Persona Kern, der verantwortlich für das radiale Abtasten der Umgebung ist und feindliche Bewegungen automatisch anzeigt und verfolgt. Der eingebaute Helmbildschirm zeigt eine Analyse über bekannte Schwächen des erfassten Ziels in Sekundenschnelle an und hilft zusätzlich mit Stabilisatoren Schüsse präzise und tödlich zu setzen. Die verankerten Zusatzschichten an Kiefer sowie Visier und die etlichen Federmechanismen schützen dem Träger nahezu komplett vor Explosionen.</SF_GrenadierPowerArmorHelmet.description>
+
+  <!-- Commando Armor -->
+  <SF_CommandoArmorHelmet.label>Kommando Energiehelm</SF_CommandoArmorHelmet.label>
+  <SF_CommandoArmorHelmet.description>Ein Energiehelm mit eigenem Bewusstsein. Er verfügt über vollautomatische Reflektorsicht, ein Zielsuch- und Ortungssystem, welches auf der Technologie von Weltraumschiffen basiert und nicht zuletzt durchschaltbarem Sichtspektren zur Steigerung der Feuereffektivität. Über isolierte Kamerabilder wird hierbei eine einzigartige und verbesserte Wahrnehmung geschaffen, wie man sie nur aus Glitzerwelten kennt, besonders während man in Bewegung ist.</SF_CommandoArmorHelmet.description>
+
+  <!-- Hazard Operations Armor -->
+  <SF_HazardOperationsArmorHelmet.label>Biohazard Energiehelm</SF_HazardOperationsArmorHelmet.label>
+  <SF_HazardOperationsArmorHelmet.description>Ein Energiehelm zum Kolonisierungsschutz in Berg- und Agrarwelten unter lebensbedrohlichen Umständen und Umwelteinflüssen. Diese Version implementiert ein einzigartigen Oyxgen-Umwandler für hoch toxische Atmosphären und hat eine dünne Beschichtung aus Alu in seiner Innenseite um den Träger sogar vor psychischen Einflüssen zu schützen.</SF_HazardOperationsArmorHelmet.description>
+
+  <!-- Diplomat Power Armor -->
+  <SF_DiplomatPowerArmorHelmet.label>Konsul Energiehelm</SF_DiplomatPowerArmorHelmet.label>
+  <SF_DiplomatPowerArmorHelmet.description>Ein Energiehelm der verschiedenste Übersetzungsmodule benutzt und über einen KI Persona Kern verfügt, der dafür verantwortlich ist Biodaten der Gesprächspartner zu sammeln und kleinste Dinge wie Stressreaktionen und Veränderungen, anhand der Gesichtsstruktur zu identifizieren und aufzuzeichnen. In nur einem Bruchteil einer Sekunde werden dem Träger visuell oder auch akkustisch Lösungen zur gegenwärtigen Konversation aufgezeigt.</SF_DiplomatPowerArmorHelmet.description>
+
+  <!-- Defender Power Armor -->
+  <SF_DefenderPowerArmorHelmet.label>Frontsoldat Energiehelm</SF_DefenderPowerArmorHelmet.label>
+  <SF_DefenderPowerArmorHelmet.description>Ein Energiehelm militärischer Elite-Einheiten höchster Güteklasse. Diese Version speist den Träger mit Informationen über die Anatomie des erfassten Zieles und ermöglicht so saubere Schüsse, aber auch vereinfachte Operationen und eine schnellere Behandlung während hitziger Feldeinsätze.</SF_DefenderPowerArmorHelmet.description>
+
+  <!-- Scout Power Armor -->
+  <SF_ScoutPowerArmorHelmet.label>Aufklärer Energiehelm</SF_ScoutPowerArmorHelmet.label>
+  <SF_ScoutPowerArmorHelmet.description>Ein Energiehelm für Aufklärungsmissionen und erste Wahl jedes wahren Kundschafters. Es verfügt sowohl über ein ein kappengleiche Vorwölbung an seinem Außenrand, als auch über eine schnabelförmige Verwölbung am Geschirr und hat einen erweiterten KI Persona Kern integriert, der die Präzision des Anwenders auf weite Strecken deutlich verbessert.</SF_ScoutPowerArmorHelmet.description>
+
+  <!-- Samurai Power Armor -->
+  <SF_SamuraiPowerArmorHelmet.label>Samurai Energiehelm</SF_SamuraiPowerArmorHelmet.label>
+  <SF_SamuraiPowerArmorHelmet.description>Ein Energiehelm mit einem Samuraischirm und einem Spezialvisier das ultraviolette Strahlung auffängt. Wie bei allen Helmen ist das Visier das schwächste Teil, daher wurde bei dieser Version vor allem darauf Wert gelegt, das Sichtfenster äußerst kleinzuhalten, was widerum die Genauigkeit bei Präzisionswaffen verschlechterte. Dennoch bietet sie eine gute Verschleierung der empfindlichsten Teile und dem Träger damit besten Schutz. Ein vorinstallierter KI Persona Kern beinhaltet und listet alle Informationen über interstellare Kampfkünste auf, vor, während und auch nach einem Gefecht.</SF_SamuraiPowerArmorHelmet.description>
+
+  <!-- Shock Trooper Armor -->
+  <SF_ShockTrooperArmorHelmet.label>Vollkontakt Energiehelm</SF_ShockTrooperArmorHelmet.label>
+  <SF_ShockTrooperArmorHelmet.description>Ein kinetischer Energiehelm für Shocktruppen mit einer feuefesten Beschichtung und Verstärkungselementen aus einer Tritaniumlegierung. Die Innenseite wurde mit schwarzen Spezialpolstern ausgelegt, um einen gewissen Komfort bei gleichzeitig hoher Sicherheit zu bieten. Diese neuste Version verbindet sich automatisch mit dem neuralen Netzwerk des Benutzers und speist das Gehirn mit allen taktischen Daten während eines Einsatzes. Zusätzlich werden auf das Sichtfeld strategische Möglichkeiten zur optimalen Positionierung beim Vorrücken im gesamten Truppenverbund wiedergegeben.</SF_ShockTrooperArmorHelmet.description>
+
+  <!-- Recon Power Armor -->
+  <SF_ReconPowerArmorHelmet.label>Tarnkappen Energiehelm</SF_ReconPowerArmorHelmet.label>
+  <SF_ReconPowerArmorHelmet.description>Ein Energiehelm für das Auskundschaften feindlicher Territorien. Diese Version hat einen großen, runden Kamm mit einer Einbuchtung als Besonderheit und ist mit 2 schwarzen Tritanium-Dreiecken auf jeder Seite versehen. Das dünne Visier wird von einem schwarzen Rahmen gestützt, der das Gesicht des Trägers bis oberhalb der Nase auspanzert. Diese Version hat einen integrierten KI Persona Kern, der dem Betreiber hilft auf sich allein gestellt zu überleben. Eine Datenbank listet verfügbare Nahrung und enthält die wichtigsten Herstellungsprozesse wie Rezepte.</SF_ReconPowerArmorHelmet.description>
+
+</LanguageData>
