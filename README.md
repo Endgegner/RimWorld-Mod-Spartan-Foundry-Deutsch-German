@@ -13,6 +13,7 @@ Deutsch Übersetzung des Spartan Foundry Mods, der das Spiel um eine Selektion a
 
 Alle meine Uploads achten darauf die Atmosphäre sowie das Flare von RimWorld einzufangen und zu erhalten.
 
+Mod by Oskar Potocki<br>
 Translated by Endgegner<br>
 
 <b>License</b>
